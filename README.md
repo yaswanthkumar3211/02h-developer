@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Mini Project Management Portal
 
 A full-stack, responsive, and feature-rich project management portal designed to streamline task tracking. It features dynamic sorting, filtering, title-based search, pagination, dark-mode toggle, real-time validations, and automatic database setup with seeding.
@@ -144,3 +145,6 @@ CREATE TABLE IF NOT EXISTS tasks (
 =======
 # full-stack
 >>>>>>> 8d2901a8062422a4b9525b08f448ff189422eab8
+=======
+# 02h-developer
+>>>>>>> ce9b6048ac465fae5119a56eed7263863acb9aab
